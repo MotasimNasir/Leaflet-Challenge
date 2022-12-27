@@ -1,4 +1,4 @@
-# leaflet-challenge: Visualizing Data with Leaflet
+# Leaflet Challenge: Visualizing Data with Leaflet
 
 This repository contains the following:
 
